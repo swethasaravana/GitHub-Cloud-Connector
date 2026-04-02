@@ -31,8 +31,14 @@ A backend application built using ASP.NET Core Web API that integrates with GitH
 ```
 git clone <your-repo-url>
 ```
+2. Generate GitHub Personal Access Token (PAT):
+Go to GitHub → Settings
+Developer Settings → Personal Access Tokens
+Click Generate New Token
+Select scope: repo or public_repo
+Generate and copy the token
 
-2. Add your GitHub PAT in `appsettings.json`:
+3. Add your GitHub PAT in `appsettings.json`:
 
 ```json
 "GitHub": {
