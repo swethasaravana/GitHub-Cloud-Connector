@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHubConnectorAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FD070F-983C-4F83-82B4-B54FD4CBD81B}|GitHubConnectorAPI.csproj|d:\\githubconnectorapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5FD070F-983C-4F83-82B4-B54FD4CBD81B}|GitHubConnectorAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FD070F-983C-4F83-82B4-B54FD4CBD81B}|GitHubConnectorAPI.csproj|d:\\githubconnectorapi\\controllers\\githubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FD070F-983C-4F83-82B4-B54FD4CBD81B}|GitHubConnectorAPI.csproj|solutionrelative:controllers\\githubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FD070F-983C-4F83-82B4-B54FD4CBD81B}|GitHubConnectorAPI.csproj|d:\\githubconnectorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FD070F-983C-4F83-82B4-B54FD4CBD81B}|GitHubConnectorAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FD070F-983C-4F83-82B4-B54FD4CBD81B}|GitHubConnectorAPI.csproj|d:\\githubconnectorapi\\services\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FD070F-983C-4F83-82B4-B54FD4CBD81B}|GitHubConnectorAPI.csproj|solutionrelative:services\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FD070F-983C-4F83-82B4-B54FD4CBD81B}|GitHubConnectorAPI.csproj|d:\\githubconnectorapi\\services\\githubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FD070F-983C-4F83-82B4-B54FD4CBD81B}|GitHubConnectorAPI.csproj|solutionrelative:services\\githubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FD070F-983C-4F83-82B4-B54FD4CBD81B}|GitHubConnectorAPI.csproj|d:\\githubconnectorapi\\services\\igithubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FD070F-983C-4F83-82B4-B54FD4CBD81B}|GitHubConnectorAPI.csproj|solutionrelative:services\\igithubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FD070F-983C-4F83-82B4-B54FD4CBD81B}|GitHubConnectorAPI.csproj|d:\\githubconnectorapi\\models\\createmilestonerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FD070F-983C-4F83-82B4-B54FD4CBD81B}|GitHubConnectorAPI.csproj|solutionrelative:models\\createmilestonerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FD070F-983C-4F83-82B4-B54FD4CBD81B}|GitHubConnectorAPI.csproj|d:\\githubconnectorapi\\models\\createissuerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FD070F-983C-4F83-82B4-B54FD4CBD81B}|GitHubConnectorAPI.csproj|solutionrelative:models\\createissuerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GitHubConnectorAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\GitHubConnectorAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-02T14:19:16.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GitHubController.cs",
+              "DocumentMoniker": "D:\\GitHubConnectorAPI\\Controllers\\GitHubController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GitHubController.cs",
+              "ToolTip": "D:\\GitHubConnectorAPI\\Controllers\\GitHubController.cs",
+              "RelativeToolTip": "Controllers\\GitHubController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T14:16:40.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiException.cs",
+              "DocumentMoniker": "D:\\GitHubConnectorAPI\\Services\\ApiException.cs",
+              "RelativeDocumentMoniker": "Services\\ApiException.cs",
+              "ToolTip": "D:\\GitHubConnectorAPI\\Services\\ApiException.cs",
+              "RelativeToolTip": "Services\\ApiException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T14:13:42.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GitHubService.cs",
+              "DocumentMoniker": "D:\\GitHubConnectorAPI\\Services\\GitHubService.cs",
+              "RelativeDocumentMoniker": "Services\\GitHubService.cs",
+              "ToolTip": "D:\\GitHubConnectorAPI\\Services\\GitHubService.cs",
+              "RelativeToolTip": "Services\\GitHubService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T14:12:53.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGitHubService.cs",
+              "DocumentMoniker": "D:\\GitHubConnectorAPI\\Services\\IGitHubService.cs",
+              "RelativeDocumentMoniker": "Services\\IGitHubService.cs",
+              "ToolTip": "D:\\GitHubConnectorAPI\\Services\\IGitHubService.cs",
+              "RelativeToolTip": "Services\\IGitHubService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T14:11:53.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateMilestoneRequest.cs",
+              "DocumentMoniker": "D:\\GitHubConnectorAPI\\Models\\CreateMilestoneRequest.cs",
+              "RelativeDocumentMoniker": "Models\\CreateMilestoneRequest.cs",
+              "ToolTip": "D:\\GitHubConnectorAPI\\Models\\CreateMilestoneRequest.cs",
+              "RelativeToolTip": "Models\\CreateMilestoneRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T14:10:25.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateIssueRequest.cs",
+              "DocumentMoniker": "D:\\GitHubConnectorAPI\\Models\\CreateIssueRequest.cs",
+              "RelativeDocumentMoniker": "Models\\CreateIssueRequest.cs",
+              "ToolTip": "D:\\GitHubConnectorAPI\\Models\\CreateIssueRequest.cs",
+              "RelativeToolTip": "Models\\CreateIssueRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T14:09:08.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHubConnectorAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GitHubConnectorAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T14:06:58.933Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

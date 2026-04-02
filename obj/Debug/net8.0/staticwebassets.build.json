@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "dc1/GHQLcTxeCq+6pPqEmI1x0S1x87gEfZwEAjoP13c=",
+  "Source": "GitHubConnectorAPI",
+  "BasePath": "_content/GitHubConnectorAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
